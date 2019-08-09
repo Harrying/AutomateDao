@@ -1,7 +1,7 @@
 # AutomateDao
 实体类自动生成器
 
-在配置文件中设置数据库属性
+在配置文件中设置数据库属性   
 dto.driverClass = com.mysql.jdbc.Driver    
 dto.jdbcUrl = jdbc:mysql://localhost:3306/hrm_db   
 dto.user = xlei    //用户   
