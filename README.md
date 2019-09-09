@@ -12,8 +12,8 @@ dto.tablePrefix = hrm_            //数据库表的前缀  例如en_user  此处
      
 建立一个main方法，new一个DTOHelper对象。调用creatDto()方法，运行即可，例如：
 ```
-punlic void mian(String[] args)throws Exception{
+pblic void main(String[] args)throws Exception{
     DTOHelper dto = new DTOHelper();
-    dto.creatDto();
+    dto.createDto();
 }
 ```
